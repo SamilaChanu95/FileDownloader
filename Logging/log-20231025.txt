@@ -1,0 +1,51 @@
+2023-10-25 18:30:35.066 +05:30 [INF] Started Application SilexxFileDownloader
+2023-10-25 18:30:35.136 +05:30 [INF] Options file doesn't exists in the source.
+2023-10-25 18:32:52.828 +05:30 [INF] Started Application SilexxFileDownloader
+2023-10-25 18:32:52.889 +05:30 [ERR] Options file doesn't exists in the source.
+2023-10-25 18:34:38.675 +05:30 [INF] Started Application SilexxFileDownloader
+2023-10-25 18:34:54.822 +05:30 [ERR] Options file doesn't exists in the source.
+2023-10-25 18:35:58.487 +05:30 [INF] Started Application SilexxFileDownloader
+2023-10-25 18:46:42.586 +05:30 [INF] Started Application SilexxFileDownloader
+2023-10-25 18:46:42.637 +05:30 [INF] 1 -> Options file.
+2023-10-25 18:47:03.573 +05:30 [INF] 2 -> Not Options file.
+2023-10-25 18:47:08.412 +05:30 [INF] 3 -> Not Options file.
+2023-10-25 18:47:14.843 +05:30 [INF] 4 -> Options file.
+2023-10-25 18:47:41.502 +05:30 [INF] File transferred into the destination succussfully.
+2023-10-25 18:48:01.680 +05:30 [INF] Stopped Application SilexxFileDownloader
+2023-10-25 18:49:35.737 +05:30 [INF] Started Application SilexxFileDownloader
+2023-10-25 18:49:35.813 +05:30 [INF] 1 -> Options file.
+2023-10-25 18:50:46.655 +05:30 [INF] 2 -> Not Options file.
+2023-10-25 18:50:52.272 +05:30 [INF] 3 -> Not Options file.
+2023-10-25 18:50:52.272 +05:30 [INF] 4 -> Options file.
+2023-10-25 19:05:29.365 +05:30 [INF] Started Application SilexxFileDownloader
+2023-10-25 19:05:29.422 +05:30 [INF] 1 -> Options file.
+2023-10-25 19:05:33.456 +05:30 [INF] 2 -> Not Options file.
+2023-10-25 19:05:36.025 +05:30 [INF] 3 -> Not Options file.
+2023-10-25 19:05:36.025 +05:30 [INF] 4 -> Options file.
+2023-10-25 19:05:37.149 +05:30 [ERR] Same file exists in the Destination Directory.
+2023-10-25 19:07:23.981 +05:30 [INF] Started Application SilexxFileDownloader
+2023-10-25 19:07:24.027 +05:30 [INF] 1 -> Options file.
+2023-10-25 19:07:31.955 +05:30 [INF] 2 -> Not Options file.
+2023-10-25 19:07:34.130 +05:30 [INF] 3 -> Not Options file.
+2023-10-25 19:07:34.130 +05:30 [INF] 4 -> Options file.
+2023-10-25 19:07:34.130 +05:30 [ERR] Same file exists in the Destination Directory.
+2023-10-25 19:07:34.131 +05:30 [INF] Stopped Application SilexxFileDownloader
+2023-10-25 19:09:13.050 +05:30 [INF] Started the application SilexxFileDownloader
+2023-10-25 19:09:13.099 +05:30 [INF] 1 -> Options file.
+2023-10-25 19:09:47.313 +05:30 [INF] 2 -> Not Options file.
+2023-10-25 19:09:49.681 +05:30 [INF] 3 -> Not Options file.
+2023-10-25 19:09:49.681 +05:30 [INF] 4 -> Options file.
+2023-10-25 19:09:49.681 +05:30 [ERR] Same file exists in the Destination Directory.
+2023-10-25 19:09:49.681 +05:30 [INF] End the application SilexxFileDownloader
+2023-10-25 19:32:33.747 +05:30 [INF] Started the application SilexxFileDownloader
+2023-10-25 19:32:33.844 +05:30 [INF] 1 file is Options file.
+2023-10-25 19:32:33.845 +05:30 [INF] 2 file isn't Options file.
+2023-10-25 19:32:33.845 +05:30 [INF] 3 file isn't Options file.
+2023-10-25 19:32:33.845 +05:30 [INF] 4 file is Options file.
+2023-10-25 19:32:33.845 +05:30 [ERR] File didn't transfer, it already exists in the Destination directory.
+2023-10-25 19:32:33.845 +05:30 [INF] End the application SilexxFileDownloader
+2023-10-25 19:33:39.949 +05:30 [INF] Started the application SilexxFileDownloader
+2023-10-25 19:33:40.007 +05:30 [INF] 1 file is Options file.
+2023-10-25 19:33:40.008 +05:30 [INF] 2 file is Options file.
+2023-10-25 19:33:40.010 +05:30 [INF] File transferred into the destination succussfully.
+2023-10-25 19:33:40.010 +05:30 [INF] End the application SilexxFileDownloader
